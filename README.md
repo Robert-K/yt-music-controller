@@ -13,4 +13,4 @@ A toggleable overlay with basic YouTube controls
 - You can change the hotkey in the key.ini file.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
