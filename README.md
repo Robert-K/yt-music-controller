@@ -1,5 +1,5 @@
 # YouTube Music Controller
-A toggleable overlay with basic YouTube controls
+A toggleable overlay with basic YouTube controls. Written in [AutoHotkey](https://autohotkey.com/).
 
 ## How to use
 1. Download the version corresponding to your browser (more coming soon)
