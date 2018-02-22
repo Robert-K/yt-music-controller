@@ -4,7 +4,7 @@ A toggleable overlay with basic YouTube controls. Written in [AutoHotkey](https:
 ![Preview image](thumb.png)
 
 ## How to use
-1. Download the version corresponding to your browser (more coming soon)
+1. Download the version corresponding to your browser (more coming eventually)
 2. Open any YouTube playlist
 3. Start YT Music Controller <BROWSER>.exe
 4. Open the overlay by holding Mouse Button 3
